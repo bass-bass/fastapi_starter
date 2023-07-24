@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+gunicorn
+fasttext
+numpy
+pandas
+google-cloud-storage
+python-dotenv
